@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>JavaScript to print Odd Numbers </title>
+<script>
+function printOddNum() {
+var start = document.getElementById("Start").value;
+var end = document.getElementById("end").value;
+var oddNum="<br>OddNumbers:<br>";
+	for(i=start;i<end; i++)
+	{
+	if(i % 2 !=0){
+	oddNum +=i+"<br>";
+	}
+}
+document.getElementById("Result").innerHTML =oddNum;
+}
+</script>
+</head>
+<body>
+<h3>JAVASCRIPT TO FIND ODD NUMBERS

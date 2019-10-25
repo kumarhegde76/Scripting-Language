@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Patients WebPage</p>
+<p open id="demo"></p>
+<script>
+var myObj,i,j,x="";
+myObj=[
+
+{"Patient_name":"Bharat","Doctor":"Jagadeesh","Disease":"Cancer"]},
+{"patient_name":"Vinay","Doctor":"Sharan","Disease":"sugar"]}
+
+];
+
+for(i in myObj){
+x+= "<h2>"Patient 01"</h2><hr />";
+x+="Patient name" :"+myobj[i].Patient_Name "<br>";
+x+="Patient name" :"+myobj[i].Doctor "<br>";
+x+="Patient name" :"+myobj[i].Disease "<br>";
+	
+}
+}
+document.getElementById("demo").innerHTML=x;
+</script>
+</body>
+</html>
+
