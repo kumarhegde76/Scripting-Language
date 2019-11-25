@@ -1,3 +1,6 @@
+#python class to reverse a sentence
+#Example: “I am here” should be reversed as “here am I”
+
 lst=[]
 class Reverse:
 	def __init__(self,s):
