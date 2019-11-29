@@ -1,15 +1,15 @@
 # Scripting-Language
-Scripting Lab Programs Submission
+# Scripting Lab Programs Submission
 
 (under Department of ISE, Ramaiah Institute of Technology)
 
-USN : 1MS18IS406
+**USN : 1MS18IS406**
 
-Name : Kumar Hegde
+**Name : Kumar Hegde**
 
-Section : 5A
+**Section : 5A**
 
-Submitted to Dr. Mydhili K Nair (Faculty Coordinator)
+**Submitted to Dr. Mydhili K Nair (Faculty Coordinator)**
 
 List of programs
 Intro to Python and JavaScript(programs/python)
