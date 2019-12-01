@@ -30,49 +30,47 @@ List of programs
 
    ii.Temperature Convertion Function and storing all the conversions carried in program using python
 
+
 3. JavaScript and JSON programs
 
     i. Display Book name and Authors
 
    ii. Basic Menu app
 
-  iii.JSON with different datatypes inside
+  iii.  JSON with different datatypes inside
 
-   iv.Looping through Array and accessing JSON
+   iv.  Looping through Array and accessing JSON
 
-   v.Dynamic Patient Details using JSON
+   v.   Dynamic Patient Details using JSON
 
-   vi.Colored Element using CSS and JSON
+   vi.  Colored Element using CSS and JSON
+   
 
 4.Programs implemented on both JavaScript and Python(SL_LAB_Test1)
-
-   1.Calculate Age from DOB
-   2.Minutes to Hour:Minute notation
-   3.LetterSurround check
-   4.Range of odd numbers
-   5.Change Character as per conditions
+ 
+    1.   Calculate Age from DOB
+    2.   Minutes to Hour:Minute notation
+    3.   LetterSurround check
+    4.   Range of odd numbers
+    5.   Change Character as per conditions
 
 5.Python program using Pandas and Seaborn on(DataScience)
 
-  1.Iris Dataset
+   1.   Iris Dataset
 
-  2.Titanic Dataset
+   2.   Titanic Dataset
 
-  3.StudentPreformance Dataset
+   3.   StudentPreformance Dataset
 
-  4.BlackFriday Dataset
+   4.   BlackFriday Dataset
 
-6.Web Applications using Flask(Flask)
+6. Web Applications using Flask(Flask)
 
-  1.ATM app
+   1.   ATM app
 
-  2.Shopping Cart app
+   2.   Shopping Cart app
 
 Few More...
-
-Screenshots
-
-My GitHub Repository
 
 
 github
