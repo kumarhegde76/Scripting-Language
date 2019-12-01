@@ -12,61 +12,61 @@
 **Submitted to Dr. Mydhili K Nair (Faculty Coordinator)**
 
 List of programs
-Intro to Python and JavaScript(programs/python)
+1. Intro to Python and JavaScript(programs/python)
 
 
-Python Basics - Datatypes, Functions, List Comprehension
+    i. Python Basics - Datatypes, Functions, List Comprehension
 
-Student Dictionary
-Atomic Dictionary
+   ii. Student Dictionary
+  iii. Atomic Dictionary
 
-HTML Basics and JavaScript - Forms and Function (Multiply and Addition)(program/HTML)
+   vi.   HTML Basics and JavaScript - Forms and Function (Multiply and Addition)(program/HTML)
 
-More on Basics of Python and JavaScript
+   v.    More on Basics of Python and JavaScript
 
-More on Python and JavaScript : Functions, Classes, Modules
+2. More on Python and JavaScript : Functions, Classes, Modules
 
-Frequency of words in text file using python
+    i.Frequency of words in text file using python
 
-Temperature Convertion Function and storing all the conversions carried in program using python
+   ii.Temperature Convertion Function and storing all the conversions carried in program using python
 
-JavaScript and JSON programs
+3. JavaScript and JSON programs
 
-Display Book name and Authors
+    i. Display Book name and Authors
 
-Basic Menu app
+   ii. Basic Menu app
 
-JSON with different datatypes inside
+  iii.JSON with different datatypes inside
 
-Looping through Array and accessing JSON
+   iv.Looping through Array and accessing JSON
 
-Dynamic Patient Details using JSON
+   v.Dynamic Patient Details using JSON
 
-Colored Element using CSS and JSON
+   vi.Colored Element using CSS and JSON
 
-Programs implemented on both JavaScript and Python(test1)
+4.Programs implemented on both JavaScript and Python(SL_LAB_Test1)
 
-Calculate Age from DOB
-Minutes to Hour:Minute notation
-LetterSurround check
-Range of odd numbers
-Change Character as per conditions
+   1.Calculate Age from DOB
+   2.Minutes to Hour:Minute notation
+   3.LetterSurround check
+   4.Range of odd numbers
+   5.Change Character as per conditions
 
-Python program using Pandas and Seaborn on(DataScience)
+5.Python program using Pandas and Seaborn on(DataScience)
 
-Iris Dataset
+  1.Iris Dataset
 
-Titanic Dataset
+  2.Titanic Dataset
 
-StudentPreformance Dataset
+  3.StudentPreformance Dataset
 
-BlackFriday Dataset
+  4.BlackFriday Dataset
 
-Web Applications using Flask(Flask)
+6.Web Applications using Flask(Flask)
 
-ATM app
+  1.ATM app
 
-Shopping Cart app
+  2.Shopping Cart app
 
 Few More...
 
