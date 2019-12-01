@@ -11,24 +11,24 @@
 
 **Submitted to Dr. Mydhili K Nair (Faculty Coordinator)**
 
-List of programs
-1. Intro to Python and JavaScript(programs/python)
+**List of programs**
+1. Intro to Python and JavaScript(**programs/python**)
 
+ 
+         i. Python Basics - Datatypes, Functions, List Comprehension
 
-    i. Python Basics - Datatypes, Functions, List Comprehension
+        ii. Student Dictionary
+       iii. Atomic Dictionary
 
-   ii. Student Dictionary
-  iii. Atomic Dictionary
+        vi. HTML Basics and JavaScript - Forms and Function (Multiply and Addition)(program/HTML)
 
-   vi.   HTML Basics and JavaScript - Forms and Function (Multiply and Addition)(program/HTML)
-
-   v.    More on Basics of Python and JavaScript
+         v. More on Basics of Python and JavaScript
 
 2. More on Python and JavaScript : Functions, Classes, Modules
 
-    i.Frequency of words in text file using python
+       i. Frequency of words in text file using python
 
-   ii.Temperature Convertion Function and storing all the conversions carried in program using python
+       ii.Temperature Convertion Function and storing all the conversions carried in program using python
 
 
 3. JavaScript and JSON programs
@@ -43,10 +43,10 @@ List of programs
 
           v. Dynamic Patient Details using JSON
 
-         vi.  Colored Element using CSS and JSON
+         vi. Colored Element using CSS and JSON
    
 
-4.Programs implemented on both JavaScript and Python(SL_LAB_Test1)
+4.Programs implemented on both JavaScript and Python(**SL_LAB_Test1**)
  
     1.   Calculate Age from DOB
     2.   Minutes to Hour:Minute notation
@@ -54,7 +54,7 @@ List of programs
     4.   Range of odd numbers
     5.   Change Character as per conditions
 
-5.Python program using Pandas and Seaborn on(DataScience)
+5.Python program using Pandas and Seaborn on(**DataScience**)
 
     1.   Iris Dataset
 
@@ -66,7 +66,7 @@ List of programs
    
    
 
-6. Web Applications using Flask(Flask)
+6. Web Applications using Flask(**Flask**)
 
        1.   ATM app
 
