@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+            function item(){
+                var one = parseInt(document.getElementById('price').value)
+                var two = parseInt(document.getElementById('Num').value)
+                var three = one * two
+                document.getElementById('res').innerHTML = three
+                alert("Successfully paid!")
+            }
+        </script>
+    </head>
+    <body bgcolor="Yellow" align="center">
+        <select>
+            <option id='Banana'>Banana</option>
+            <option id='Apple'>Apple</option>
+            <option id='Mango'>Mango</option>
+            <option id='Orange'>Orange</option>
+        </select><br>
+        Price:<br>
+        <input type='text' id='price'/><br>
+        No of items/(KG)<br>
+        <input type='text' id='Num'/><br>
+        <input type='submit' onclick="item()"/><br>
+        <p> The Total price is:<br>
+            <span id='res'></span>
+        </p>    
+    </body>
+</html>  
